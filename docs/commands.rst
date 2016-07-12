@@ -1,16 +1,16 @@
 Commands
 ========
 
-**!NEW!**  Sportbot supports live scores for tennis. Check it out with `/score tennis`!
+**!NEW!**  Sportbot supports live scores for tennis. Check it out with ``/score tennis``!
 
 It supports American major leagues:
 
-* **NBA** `/score nba`
-* **NFL** `/score nfl`
-* **NHL** `/score nhl`
-* **MLB** `/score mlb`
+* **NBA** ``/score nba``
+* **NFL** ``/score nfl``
+* **NHL** ``/score nhl``
+* **MLB** ``/score mlb``
 
-It also supports European football leagues  `/score foot`:
+It also supports European football leagues  ``/score foot``:
 
 * **Champions League**
 * England Premier League and League One
